@@ -1,3 +1,8 @@
+#### Name: BINAY BORUN MANN
+ - Place: KALYANI, INDIA
+ - Bio: Software engineer. Graduated from INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, KALYANI.
+ - GitHub: [binaytech-1608](https://github.com/binaytech-1608)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
